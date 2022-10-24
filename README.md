@@ -3,7 +3,7 @@
 
 ---
 **1. Pic Question1_a is adding block**
-<img src = "Q1_a.jpg" weight = 200>
+<img style = "color:green" src = "Q1_a.jpg" weight = 200>
 **2. Pic Question1_b is the right part of Question1_a**
 <img src = "Q1_b.jpg" weight = 200>
 ---
