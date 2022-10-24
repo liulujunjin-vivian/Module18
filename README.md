@@ -6,11 +6,11 @@
 <img src = "Q1_a.jpg" weight = 200>
 ---
 ---
-**3. Pic Question2_a is True of validate**
+**2. Pic Question2_a is True of validate**
 <img src = "Q2_a.jpg" weight = 200>
 ---
 ---
-**4. Pic Question2_b is the terminal part**
+**3. Pic Question2_b is the terminal part**
 <img src = "Q2_b.jpg" weight = 200>
 
 **4. Pic Question1_b is the right missing part of Question1_a**
